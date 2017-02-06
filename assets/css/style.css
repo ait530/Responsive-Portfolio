@@ -1,4 +1,4 @@
-/*CSS for Index File*/
+/*CSS for Index, Portfolio, and Contact Files*/
 /**************************************/
 
 .wrapper{
@@ -40,17 +40,21 @@
   color:#777777;
   float: right;
   margin-top: 65px;
-  margin-right: 315px;
+  margin-right: 230px;
   float: right;
-  
+  text-decoration: none;
+  width:270px;
   
 }
+
+
 
 
 .About-button {
   float:left;
   color:#777777;
-  margin-right:10px;
+  margin-right:12px;
+  text-decoration: none;
 
 }
 
@@ -59,7 +63,10 @@
 
   float:left;
   color:#777777;
-  margin-right:10px;
+  margin-right:12px;
+  text-decoration: none;
+
+
 }
  
 
@@ -69,6 +76,10 @@
 
   float:left;
   color:#777777;
+  text-decoration: none;
+  
+  
+
 }
 
 
@@ -105,11 +116,9 @@
   margin-top: 50px;
   margin-left:125px;
   margin-bottom: 75px;
-
-  
-
   align-content: center;
   float:left;
+
   
   
 
@@ -125,7 +134,8 @@
   margin-top: 20px;
   margin-left: 30px;
   color:#4aaaa5;
-  font-size: 20px;
+  font-size:25px;
+  
 
 }
 
@@ -168,12 +178,13 @@
   background-color: #ffffff;
   text-align: center;
   border: 1px solid #dddddd;
-  padding: 6px;
+  padding: 1px;
+  padding-top: 37px;
   margin-right: 5px;
   margin-left: 35px;
   margin-top: 50px;
   font-family: 'Georgia', Times, "Times New Roman", serif;
-  font-size:20px;
+  font-size:25px;
 
 
 }
@@ -263,6 +274,8 @@
 
 
 
+
+
 /*Portfolio Page CSS*/
 /****************************************/
 
@@ -285,8 +298,8 @@
 .portfolio-content {
   float: left;
   border: 1px, solid #dddddd;
-  width: 490px;
-  height: 1000px;
+  width: 495px;
+  height: 940px;
   color: #777777;
   background-color: #ffffff;
   font-family: 'Georgia', Times, "Times New Roman", serif;
@@ -326,8 +339,8 @@
   font-family:'Arial','Helvetica Neue',Helvetica, sans-serif;
   color:#777777;
   float: right;
-  margin-top: 60px;
-  margin-right: 300px;
+  margin-top: 65px;
+  margin-right: 325px;
   float: right;
 
 
@@ -348,7 +361,7 @@
   margin-top: 20px;
   margin-left: 30px;
   color:#4aaaa5;
-  font-size: 20px;
+  font-size: 25px;
 
 
 }
@@ -373,7 +386,7 @@
   float:left;
   margin-left: 30px;
   position:absolute;
-  
+
   
 
 }
@@ -386,9 +399,10 @@
   position:absolute;
   font-family: 'Georgia', Times, "Times New Roman", serif;
   color:white;
-  font-size:10px;
+  font-size:15px;
   background-color:#4aaaa5;
   padding: 12px;
+  padding-top: 20px;
   margin-left:30px;
   margin-top:168px;
   z-index:1;
@@ -415,9 +429,10 @@
   position:absolute;
   font-family: 'Georgia', Times, "Times New Roman", serif;
   color:white;
-  font-size:10px;
+  font-size:15px;
   background-color:#4aaaa5;
   padding: 12px;
+  padding-top: 20px;
   margin-left:265px;
   margin-top:167px;
   z-index:1;
@@ -446,13 +461,13 @@
   position:absolute;
   font-family: 'Georgia', Times, "Times New Roman", serif;
   color:white;
-  font-size:10px;
+  font-size:15px;
   background-color:#4aaaa5;
   padding: 15px;
   margin-left:30px;
   margin-top:460px;
   z-index:1;
-  width:18%;
+  width:17.9%;
 
 
 }
@@ -478,11 +493,11 @@
   position:absolute;
   font-family: 'Georgia', Times, "Times New Roman", serif;
   color:white;
-  font-size:10px;
+  font-size:17px;
   background-color:#4aaaa5;
   padding: 7px;
   margin-left:265px;
-  margin-top:480px;
+  margin-top:455px;
   z-index:1;
   width:19.5%;
 
@@ -508,14 +523,15 @@
   text-align:center;
   font-family: 'Georgia', Times, "Times New Roman", serif;
   color:white;
-  font-size:10px;
+  font-size:15px;
   background-color:#4aaaa5;
   padding: 10px;
   margin-left:29.9px;
   margin-top:770px;
   z-index:1;
-  width:19%;
+  width:18.8%;
   position:absolute;
+  padding-top: 25px;
 
 }
 
@@ -568,7 +584,7 @@
   font-family:'Arial','Helvetica Neue',Helvetica, sans-serif;
   color:#777777;
   float: right;
-  margin-top: 60px;
+  margin-top: 65px;
   margin-right: 355px;
   float: right;
 
@@ -620,7 +636,7 @@
   margin-top: 26px;
   margin-left: 30px;
   color:#4aaaa5;
-  font-size: 20px;
+  font-size: 25px;
 
 }
 
